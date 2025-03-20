@@ -161,3 +161,5 @@ python main.py
   - Transaction tracking with Tx Hash and explorer links.
   - Bilingual output (Vietnamese/English).
 - **Usage**: Select from `main.py` menu, input number of cycles.
+
+Last updated: Wed Mar 19 01:18:28 UTC 2025
